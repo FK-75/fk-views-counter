@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:25 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			7
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:25 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			5
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			3
@@ -69,28 +69,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FK-75/fk-views-counter/tree/master/readme/489986379/year.md">
-				fk-75.github.io
-			</a>
-		</td>
-		<td>
-			2024/2/9 12:26 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/489986379/small/year.png" height="20"> 79
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FK-75/fk-views-counter/tree/master/readme/453115235/year.md">
 				FalloutTerminal
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			0
@@ -106,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			1
@@ -122,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			1
@@ -138,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:25 AM UTC
 		</td>
 		<td>
 			3
@@ -154,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:26 AM UTC
 		</td>
 		<td>
 			0
@@ -170,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:26 AM UTC
+			2024/2/10 12:26 AM UTC
 		</td>
 		<td>
 			12
@@ -186,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/2/9 12:27 AM UTC
+			2024/2/10 12:26 AM UTC
 		</td>
 		<td>
 			1
@@ -197,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/2/11 6:08 PM UTC</i></small>
+<small><i>Last updated on 2024/2/12 12:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
