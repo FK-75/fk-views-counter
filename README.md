@@ -69,6 +69,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FK-75/fk-views-counter/tree/master/readme/980924323/year.md">
+				fk-75.github.io
+			</a>
+		</td>
+		<td>
+			2025/5/7 6:10 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/980924323/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FK-75/fk-views-counter/tree/master/readme/453115235/year.md">
 				FalloutTerminal
 			</a>
@@ -181,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/5/10 12:40 AM UTC</i></small>
+<small><i>Last updated on 2025/5/10 6:11 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

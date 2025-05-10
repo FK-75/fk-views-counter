@@ -1,7 +1,7 @@
 ## [🔙 fk-views-counter](https://github.com/FK-75/fk-views-counter)
 
-### :octocat: [Word-Frequency](https://github.com/FK-75/Word-Frequency)
-![Image of fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/graph/452896093/large/year.png)
+### :octocat: [fk-75.github.io](https://github.com/FK-75/fk-75.github.io)
+![Image of fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/graph/980924323/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>8</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/5/10 6:11 AM UTC</i></small>
+<small><i>Last updated on 2025/5/10 6:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/svg/452896093/badge.svg)](https://github.com/FK-75/fk-views-counter/blob/master/readme/452896093/week.md)
+[![Image of fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/svg/980924323/badge.svg)](https://github.com/FK-75/fk-views-counter/blob/master/readme/980924323/week.md)
 ```readme
-[![Image of fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/svg/452896093/badge.svg)](https://github.com/FK-75/fk-views-counter/blob/master/readme/452896093/week.md)
+[![Image of fk-views-counter](https://github.com/FK-75/fk-views-counter/blob/master/svg/980924323/badge.svg)](https://github.com/FK-75/fk-views-counter/blob/master/readme/980924323/week.md)
 ```
 ### Header
-# Word-Frequency [<img alt="Image of fk-views-counter" src="https://github.com/FK-75/fk-views-counter/blob/master/graph/452896093/small/year.png" height="20">](https://github.com/FK-75/fk-views-counter/blob/master/readme/452896093/year.md)
+# fk-75.github.io [<img alt="Image of fk-views-counter" src="https://github.com/FK-75/fk-views-counter/blob/master/graph/980924323/small/year.png" height="20">](https://github.com/FK-75/fk-views-counter/blob/master/readme/980924323/year.md)
 ```readme
-# Word-Frequency [<img alt="Image of fk-views-counter" src="https://github.com/FK-75/fk-views-counter/blob/master/graph/452896093/small/year.png" height="20">](https://github.com/FK-75/fk-views-counter/blob/master/readme/452896093/year.md)
+# fk-75.github.io [<img alt="Image of fk-views-counter" src="https://github.com/FK-75/fk-views-counter/blob/master/graph/980924323/small/year.png" height="20">](https://github.com/FK-75/fk-views-counter/blob/master/readme/980924323/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
