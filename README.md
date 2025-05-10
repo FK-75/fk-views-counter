@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			7
+			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/501436126/small/year.png" height="20"> 66
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/501436126/small/year.png" height="20"> 110
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/501324977/small/year.png" height="20"> 65
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/501324977/small/year.png" height="20"> 69
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 5:41 PM UTC
 		</td>
 		<td>
 			3
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453115235/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453115235/small/year.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453117058/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453117058/small/year.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453115997/small/year.png" height="20"> 3
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453115997/small/year.png" height="20"> 6
 		</td>
 	</tr>
 	<tr>
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:41 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453111923/small/year.png" height="20"> 6
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/453111923/small/year.png" height="20"> 9
 		</td>
 	</tr>
 	<tr>
@@ -138,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:42 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/452896093/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/452896093/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:42 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			14
+			15
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/452895743/small/year.png" height="20"> 37
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/452895743/small/year.png" height="20"> 40
 		</td>
 	</tr>
 	<tr>
@@ -170,18 +170,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/5/7 5:42 PM UTC
+			2025/5/8 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/452895127/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/FK-75/fk-views-counter/raw/master/graph/452895127/small/year.png" height="20"> 6
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/5/9 6:12 PM UTC</i></small>
+<small><i>Last updated on 2025/5/10 12:40 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
